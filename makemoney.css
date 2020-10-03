@@ -1,0 +1,141 @@
+*{
+	text-align: center;
+	
+}
+
+
+#container {
+	background: black;
+	margin: 0 0 20px;
+	padding: 20px;
+	color:white;
+	font: verdana;
+}
+
+h1{
+	font-weight: bolder;
+}
+
+#links {
+	background: black;
+	padding: 30px;
+	margin: 0 0 20px;
+	font-size: 20px;
+}
+
+/*unvisited*/
+a:link {
+	color: white;
+}
+
+ /*visited*/
+ a:visited {
+ 	color: red;
+ }
+
+ /*hover/mouse-hover*/
+a:hover {
+	color: blue;
+}
+
+a:active{
+	color: yellow;
+}
+
+#upwork {
+	background: black;
+	margin: 0 0 20px;
+	padding: 25px;
+	font: verdana;
+	color: white;
+	font-size: 18px;
+}
+
+#neighbor {
+	background: black;
+	margin: 0 0 20px;
+	padding: 25px;
+	font: verdana;
+	color: white;
+	font-size: 18px;
+
+}
+
+#swap {
+	background: black;
+	margin: 0 0 20px;
+	padding: 25px;
+	font: verdana;
+	color: white;
+	font-size: 18px;
+
+}
+
+#gazelle{
+	background: black;
+	margin: 0 0 20px;
+	padding: 25px;
+	font: verdana;
+	color: white;
+	font-size: 18px;
+
+}
+
+#offerup {
+	background: black;
+	margin: 0 0 20px;
+	padding: 25px;
+	font: verdana;
+	color: white;
+	font-size: 18px;
+
+}
+
+#fiverr{
+	background: black;
+	margin: 0 0 20px;
+	padding: 25px;
+	font: verdana;
+	color: white;
+	font-size: 18px;
+
+}
+
+#cardpool {
+	background: black;
+	margin: 0 0 20px;
+	padding: 25px;
+	font: verdana;
+	color: white;
+	font-size: 18px;
+
+}
+
+#thredup {
+	background: black;
+	margin: 0 0 20px;
+	padding: 25px;
+	font: verdana;
+	color: white;
+	font-size: 18px;
+
+}
+
+#etsy {
+	background: black;
+	margin: 0 0 20px;
+	padding: 25px;
+	font: verdana;
+	color: white;
+	font-size: 18px;
+
+}
+
+#wonder {
+	background: black;
+	margin: 0 0 20px;
+	padding: 25px;
+	font: verdana;
+	color: white;
+	font-size: 18px;
+}
