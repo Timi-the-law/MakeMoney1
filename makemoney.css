@@ -148,3 +148,12 @@ a:active{
 	color: black;
 }
 
+#mipic {
+
+background: black;
+	margin: 0 0 20px;
+	padding: 25px;
+	font: verdana;
+	color: white;
+	font-size: 18px;
+}
