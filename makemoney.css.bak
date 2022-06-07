@@ -1,0 +1,197 @@
+*{
+	text-align: center;
+
+	background: white;
+	
+}
+
+
+#container {
+	background ;
+	margin: 0 0 20px;
+	padding: 20px;
+	color: black;
+	font: verdana;
+}
+
+h1{
+	font-weight: bolder;
+	color: black;
+}
+
+h2{
+	color: black;
+}
+
+#links {
+	background: black;
+	padding: 30px;
+	margin: 0 0 20px;
+	font-size: 25px;
+        font-family: impact;
+}
+
+/*unvisited*/
+a:link {
+	color: black;
+}
+
+ /*visited*/
+ a:visited {
+ 	color: red;
+ }
+
+ /*hover/mouse-hover*/
+a:hover {
+	color: blue;
+}
+
+a:active{
+	color: yellow;
+}
+
+#upwork {
+	background: ;
+	margin: 0 0 20px;
+	padding: 25px;
+	font: verdana;
+	color: white;
+	font-size: 18px;
+}
+
+#neighbor {
+	background: ;
+	margin: 0 0 20px;
+	padding: 25px;
+	font: verdana;
+	color: black;
+	font-size: 18px;
+
+}
+
+#swap {
+	background: ;
+	margin: 0 0 20px;
+	padding: 25px;
+	font: verdana;
+	color: black;
+	font-size: 18px;
+
+}
+
+#gazelle{
+	background: ;
+	margin: 0 0 20px;
+	padding: 25px;
+	font: verdana;
+	color: black;
+	font-size: 18px;
+
+}
+
+#offerup {
+	background: ;
+	margin: 0 0 20px;
+	padding: 25px;
+	font: verdana;
+	color: black;
+	font-size: 18px;
+
+}
+
+#fiverr{
+	background: ;
+	margin: 0 0 20px;
+	padding: 25px;
+	font: verdana;
+	color: black;
+	font-size: 18px;
+
+}
+
+#cardpool {
+	background: ;
+	margin: 0 0 20px;
+	padding: 25px;
+	font: verdana;
+	color: black;
+	font-size: 18px;
+
+}
+
+#thredup {
+	background: ;
+	margin: 0 0 20px;
+	padding: 25px;
+	font: verdana;
+	color: black;
+	font-size: 18px;
+
+}
+
+#etsy {
+	background: ;
+	margin: 0 0 20px;
+	padding: 25px;
+	font: verdana;
+	color: black;
+	font-size: 18px;
+
+}
+
+#wonder {
+	background: ;
+	margin: 0 0 20px;
+	padding: 25px;
+	font: verdana;
+	color: black;
+	font-size: 18px;
+}
+
+#name {
+	
+	font: fantasy Italic;
+	font-size: 10px;
+	color: grey;
+	margin: 0 0 20px;
+	padding: 25px;
+}
+
+#mipic {
+
+background: ;
+	margin: 0 0 20px;
+	padding: 25px;
+	font: verdana;
+	color: black;
+	font-size: 18px;
+}
+
+#freecash {
+	margin: 0 0 20px;
+	padding 25px;
+	font: verdana;
+	color: black;
+	font-size :18px;
+}
+
+#lime {
+	margin: 0 0 20px;
+	padding 25px;
+	font: verdana;
+	color: black;
+	font-size :18px;
+}
+
+#justanswer {
+	margin: 0 0 20px;
+	padding 25px;
+	font: verdana;
+	color: black;
+	font-size :18px;
+}
+
+#misc {
+	color: black;
+	font: italic;
+}

@@ -1,6 +1,7 @@
 *{
-	text-align: left;
-	background: black;
+	text-align: center;
+
+	background: white;
 	
 }
 
@@ -15,11 +16,11 @@
 
 h1{
 	font-weight: bolder;
-	color: white;
+	color: black;
 }
 
 h2{
-	color: white;
+	color: black;
 }
 
 #links {
@@ -32,7 +33,7 @@ h2{
 
 /*unvisited*/
 a:link {
-	color: white;
+	color: black;
 }
 
  /*visited*/
@@ -54,7 +55,7 @@ a:active{
 	margin: 0 0 20px;
 	padding: 25px;
 	font: verdana;
-	color: white;
+	color: black;
 	font-size: 18px;
 }
 
@@ -63,7 +64,7 @@ a:active{
 	margin: 0 0 20px;
 	padding: 25px;
 	font: verdana;
-	color: white;
+	color: black;
 	font-size: 18px;
 
 }
@@ -73,7 +74,7 @@ a:active{
 	margin: 0 0 20px;
 	padding: 25px;
 	font: verdana;
-	color: white;
+	color: black;
 	font-size: 18px;
 
 }
@@ -83,7 +84,7 @@ a:active{
 	margin: 0 0 20px;
 	padding: 25px;
 	font: verdana;
-	color: white;
+	color: black;
 	font-size: 18px;
 
 }
@@ -93,7 +94,7 @@ a:active{
 	margin: 0 0 20px;
 	padding: 25px;
 	font: verdana;
-	color: white;
+	color: black;
 	font-size: 18px;
 
 }
@@ -103,7 +104,7 @@ a:active{
 	margin: 0 0 20px;
 	padding: 25px;
 	font: verdana;
-	color: white;
+	color: black;
 	font-size: 18px;
 
 }
@@ -113,7 +114,7 @@ a:active{
 	margin: 0 0 20px;
 	padding: 25px;
 	font: verdana;
-	color: white;
+	color: black;
 	font-size: 18px;
 
 }
@@ -123,7 +124,7 @@ a:active{
 	margin: 0 0 20px;
 	padding: 25px;
 	font: verdana;
-	color: white;
+	color: black;
 	font-size: 18px;
 
 }
@@ -133,7 +134,7 @@ a:active{
 	margin: 0 0 20px;
 	padding: 25px;
 	font: verdana;
-	color: white;
+	color: black;
 	font-size: 18px;
 
 }
@@ -143,7 +144,7 @@ a:active{
 	margin: 0 0 20px;
 	padding: 25px;
 	font: verdana;
-	color: white;
+	color: black;
 	font-size: 18px;
 }
 
@@ -162,7 +163,7 @@ background: ;
 	margin: 0 0 20px;
 	padding: 25px;
 	font: verdana;
-	color: white;
+	color: black;
 	font-size: 18px;
 }
 
@@ -170,7 +171,7 @@ background: ;
 	margin: 0 0 20px;
 	padding 25px;
 	font: verdana;
-	color: white;
+	color: black;
 	font-size :18px;
 }
 
@@ -178,7 +179,7 @@ background: ;
 	margin: 0 0 20px;
 	padding 25px;
 	font: verdana;
-	color: white;
+	color: black;
 	font-size :18px;
 }
 
@@ -186,11 +187,11 @@ background: ;
 	margin: 0 0 20px;
 	padding 25px;
 	font: verdana;
-	color: white;
+	color: black;
 	font-size :18px;
 }
 
 #misc {
-	color: white;
+	color: black;
 	font: italic;
 }
